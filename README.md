@@ -1,4 +1,4 @@
-# AchieveHubDJ
+# AchieveHub
 
 AchieveHub is a social media platform designed for users to showcase their personal achievements in a structured and interactive way. It features a profile system with a virtual trophy case where users can upload, categorize, and display their accomplishments. The platform includes a main feed where achievements are shared, a search feature to discover notable people and milestones, and social interactions such as likes, comments, and follows. A secure authentication system (Gmail login) ensures user access, while AI-powered image recognition can detect and tag trophies or awards in uploaded pictures. Built with a Python backend (Django/Flask), a React-based frontend, and hosted on AWS or a cost-effective cloud solution, AchieveHub integrates social networking features with achievement tracking for an engaging user experience.
 
